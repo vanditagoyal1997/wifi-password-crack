@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+A8:6B:AD:2B:E7:DD, 2019-04-07 11:07:06, 2019-04-07 11:14:40,  5,  54, WPA2WPA , CCMP,PSK, -65,      887,      234,   0.  0.  0.  0,  14, quinky_ka_wifi, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+64:A2:F9:8F:89:A7, 2019-04-07 11:09:12, 2019-04-07 11:09:12, -51,        1, A8:6B:AD:2B:E7:DD,
+94:E9:79:80:51:15, 2019-04-07 11:12:30, 2019-04-07 11:14:38,   0,      161, A8:6B:AD:2B:E7:DD,
+
